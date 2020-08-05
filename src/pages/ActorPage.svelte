@@ -8,7 +8,7 @@
   import Spinner from '../components/Spinner.svelte';
   import PersonInfo from '../components/PersonInfo.svelte';
   import Grid from '../components/Grid.svelte';
-  import ThumbMovie from '../components/Thumbmovie.svelte';
+  import ThumbMovie from '../components/ThumbMovie.svelte';
 
   export let params;
 
